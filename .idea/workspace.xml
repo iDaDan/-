@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ca0abb-b684-49cb-804f-0a4b9c662824" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Anderson/learning/FirstPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Anderson/learning/FirstTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Anderson/learning/ResultsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Anderson/learning/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/chromedriver.exe" afterDir="false" />
+    <list default="true" id="78ca0abb-b684-49cb-804f-0a4b9c662824" name="Default" comment="Коммит">
       <change beforePath="$PROJECT_DIR$/src/test/java/Anderson/learning" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Anderson/learning" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,8 +27,8 @@
       <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Anderson/learning/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="428">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -446,7 +439,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" weight="0.24324325" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49926794" visible="true" weight="0.3481717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.3481717" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -700,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Anderson/learning/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="428">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
